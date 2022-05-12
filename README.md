@@ -1,4 +1,4 @@
-# Estatistica-Aplicada/Programacao-Python
+# Estatistica-Aplicada/Programacao-Python🐍
 
 Projetos realizados no decorrer da disciplina, foi utilizado a biblioteca jupyter.
 
